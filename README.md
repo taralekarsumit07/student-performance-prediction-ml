@@ -1,7 +1,7 @@
 # Student Performance Prediction using Machine Learning
 
 ## Project Overview
-This project predicts student performance based on study hours and attendance using Machine Learning.  
+This project predicts student performance based on study hours and attendance using Machine Learning.
 It is a beginner-friendly supervised learning project implemented in Python.
 
 ## Technologies Used
